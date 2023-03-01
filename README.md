@@ -57,4 +57,4 @@ Weather Stats. (2023). Sydney sea water temperature in October. https://weather-
 
 Weather Stats. (2023). Sydney sea water temperature in November. https://weather-stats.com/australia/sydney/sea_temperature/november
 
-Weather Stats. (2023). Sydney sea water temperature in December. https://weather-stats.com/australia/sydney/sea_temperature/december![image](https://user-images.githubusercontent.com/116062987/222074138-dcaf3e80-0fc2-43eb-88d4-d8be817c80e8.png)
+Weather Stats. (2023). Sydney sea water temperature in December. https://weather-stats.com/australia/sydney/sea_temperature/december![image](https://userimages.githubusercontent.com/116062987/222074138-dcaf3e80-0fc2-43eb-88d4-d8be817c80e8.png)
